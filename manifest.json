@@ -1,1 +1,20 @@
-{"name": "CIERRE CAC", "short_name": "CIERRE CAC", "description": "Productos · Indicadores · Consultas", "id": "/cierre-cac/", "start_url": "/cierre-cac/", "scope": "/cierre-cac/", "display": "standalone", "orientation": "any", "background_color": "#ffffff", "theme_color": "#0b2a6b", "icons": [{"src": "/destajeros/dashboard/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"}, {"src": "/destajeros/dashboard/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
+{
+ "name": "CIERRE CAC",
+ "short_name": "CIERRE CAC",
+ "description": "Productos · Indicadores · Consultas",
+ "id": "/cierre-cac/",
+ "start_url": "/cierre-cac/",
+ "scope": "/cierre-cac/",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#ffffff",
+ "theme_color": "#0b2a6b",
+ "icons": [
+  {
+   "src": "/destajeros/dashboard/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
